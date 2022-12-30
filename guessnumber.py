@@ -1,3 +1,5 @@
+#Program to try guessing the secret number within three attempts
+
 secret_number = 9
 guess_count = 0
 guess_limit = 3
